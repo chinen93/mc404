@@ -1,0 +1,6 @@
+%leds 
+ryg 0x90000
+ryg 0x90001
+
+%buttons Comando
+tecla 0xa0000 0xa0001 P
